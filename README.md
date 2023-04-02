@@ -19,3 +19,8 @@ Designed and implemented a data pipeline using Kafka. The Kafka server is runnin
 4.  EC2
 
 -   Apache Kafka
+---
+## Tool Used
+
+- Jupyter notebook 
+- TMUX 
