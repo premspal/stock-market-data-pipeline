@@ -5,7 +5,7 @@ Designed and implemented a data pipeline using Kafka. The producer sends data to
 --- 
 ## Architecture
 
- ![[Architecture.png]]
+ [Project Architecture Diagram](Architecture.png)
 
 --- 
 ## Technology Used
